@@ -1,0 +1,261 @@
+ <div class="mainContainerLists">
+    <ul class="horizontal-list">
+      <li class="mainList">
+        Enrollment
+        <ul class="dropdown">
+          <li>Unable to Download</li>
+          <div class="content" style="display: block;">
+            <h2><strong>Unable to Download</strong></h2>
+            <br>
+            <hr>
+            <br>
+            <p id="specialP"> <strong> Downloading the Zelle<sup>®</sup> app:</strong> </p>
+            <p>To download and use the Zelle<sup>®</sup> app you must have an eligible Android or iOS Smartphone. Devices such as Chromebooks, Laptops, Tablets or iPads are not supported to download or use the Zelle<sup>®</sup> app.</p>
+            <p>You must have a bank account in the U.S. (not including U.S. Territories) and a U.S. mobile phone number to use the Zelle<sup>®</sup> app. U.S. Territories include American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands. </p>
+            <p>If your device is not compatible with the Zelle<sup>®</sup> app, you will not be able to download within the App Store, Google Play, or you will receive a message that your device is incompatible.
+            </p>
+            <p>For additional information on enrolling with the Zelle<sup>®</sup> app visit our FAQs at <a href="https://www.zellepay.com/support/enrolling-with-zelle">https://www.zellepay.com/support/enrolling-with-zelle</a></p>
+            <p> <span><strong>Still need help?</strong></span> Complete the form and we will respond to you via email within 2 business days. If you need immediate assistance, call us at 1-844-428-8542. We are open from 10am to 10pm ET, seven days a week excluding New Year's Day, Independence Day, Thanksgiving, and Christmas.</p>
+          </div>
+          <li>How to Enroll</li>
+          <div class="content" style="display: none;"  >
+            <h2><strong>How to Enroll</strong></h2>
+            <br>
+            <hr>
+            <br>
+            <p id="specialP"> <strong> Welcome to the Zelle<sup>®</sup> app:</strong> </p>
+
+<p>To start enrollment, visit <a href="https://www.zellepay.com/get-started">https://www.zellepay.com/get-started</a> to see if your bank or credit union offers Zelle®. If your bank or credit union is listed, you must enroll directly through the online or mobile banking service. Your bank or credit union support team can help you enroll.</p>
+<h5>Don’t see your bank or credit union: 
+
+</h5>
+<p>No problem. You may still enroll with the Zelle® app by scrolling to the bottom of the page and selecting “Download the Zelle® app”. You’ll be directed to select the Zelle® app from either the App Store or Google Play to download to your Smartphone. </p>        
+    <p>If your device is not compatible with the Zelle<sup>®</sup> app, you will not be able to download within the App Store, Google Play, or you will receive a message that your device is incompatible.</p>
+          </div>
+          <li>Phone Number Already Enrolled</li>
+          <div class="content" style="display: none;">
+            <h5>Mobile Phone Number Already Enrolled
+            </h5>
+            <br>
+            <hr>
+            <br>
+            <p>Money sent with Zelle® will be sent to the account enrolled with the email or U.S. mobile number used to send the money. You will not be able to enroll by linking the same U.S. mobile number or email address to multiple accounts with Zelle®.
+            </p>
+<h5> "Your mobile number is already enrolled"
+
+</h5>
+
+
+          </div>
+          <li> Phone Number Not Eligible</li>
+          <div class="content" style="display: none;">
+            <h5>Phone Number Not Eligible
+            </h5>
+            <br>
+            <hr>
+            <br>
+            <p>When enrolling with the Zelle® app you will need a U.S. mobile phone number registered to an eligible smartphone.  For more information on Zelle® or to view answers to some of our frequently asked questions visit our FAQ page at <a href="https://www.zellepay.com/support">https://www.zellepay.com/support</a>.</p>
+          </div>
+        </ul>
+      </li>
+
+      <li class="mainList">
+        Payments & Requests
+        <ul class="dropdown">
+          <li>Send a payment</li>
+          <li>Limit/Fees</li>
+          <li>Recieve a Payment</li>
+        </ul>
+      </li>
+      <li class="mainList">
+        Debit Cards
+        <ul class="dropdown">
+          <li>Updating Your DebitCard</li>
+          <li>Debit Card is not Eligible</li>
+          <li>Lost or Stolen Card</li>
+        </ul>
+      </li>
+      <li class="mainList">
+        Profile & Security
+        <ul class="dropdown">
+          <li> Lost or Stolen Device</li>
+          <li>Forgot Password</li>
+          <li>Profile Locked</li>
+          <li>Profile Tempporarily Locked</li>
+          <li>Login Error</li>
+          <li>Updating your Profile</li>
+          <li>Is my Information Secure</li>
+        </ul>
+      </li>
+      <li class="mainList">
+        Report a Scam
+        <ul class="dropdown">
+          <h2>Report a Scam
+          </h2>
+          <p>A scam is when you are deceived into knowingly sending money to someone. For example, someone tricked or persuaded you into sending them money, or promised that you would receive something in return that they did not provide. </p>
+          <p>Zelle® does not offer purchase protection. If you’ve been a victim of fraud or a scam, contact your financial institution to report the incident and confirm if any reimbursement options are available.
+          </p>
+          <p>If you are enrolled with Zelle® through the Zelle® app and want to report a scam and confirm if any reimbursement options are available, you can use the form on this page or call us directly at 1-844-428-8542.
+          </p>
+          <p>Additionally, if you suspect someone attempted to scam you, you can also use this form to report the incident, regardless of how you are enrolled with Zelle®.
+          </p>
+        </ul>
+      </li>
+      <li class="mainList">
+        Deactivate Profile
+        <ul class="dropdown">
+          <h2>Deactivate my Zelle<sup>®</sup> app Profile
+          </h2>
+          <p>We are sorry to hear you no longer wish to use the Zelle® app. Deactivating your Zelle<sup>®</sup> app profile means you will no longer be able to send or receive money with friends, family and others you trust with Zelle<sup>®</sup>. If you have a payment pending and you deactivate your profile prior to it posting, the payment will fail and return to the Sender.</p>
+          <p>If you’re enrolled with Zelle<sup>®</sup> through your bank or credit union’s banking app or online banking, your financial institution will be able to assist with deactivating your Zelle<sup>®</sup> profile.
+          <p>Our support team is available to assist those enrolled with the Zelle<sup>®</sup> app. To deactivate your profile, we will need to speak with you directly. Please call us at 1-844-428-8542. We are open from 10am to 10pm ET, seven days a week excluding New Year's Day, Independence Day, Thanksgiving, and Christmas.
+          <p>If you have questions about your Privacy Rights, Zelle<sup>®</sup> Privacy Policies or how to exercise your rights please visit</p>
+          </p>
+          </p>
+
+        </ul>
+      </li>
+      <li class="mainList">
+        Other
+        <ul class="dropdown">
+          <h2>Other</h2>
+          <p>Hi, we look forward to assisting you with the Zelle® app. In order to better assist you, please provide us with your details and a brief description of what you are experiencing.</p>
+          <p>You may also visit our FAQ page to view answers to some of our frequently asked questions. <a href="https://www.zellepay.com/support">https://www.zellepay.com/support</a>.
+          <p>For help with Zelle® within your bank or credit union’s online or mobile banking service, your bank or credit union will be able to assist you.
+          <p><strong>Still need help?</strong> Complete the form and we will respond to you via email within 2 business days. If you need immediate assistance, call us at 1-844-428-8542. We are open from 10am to 10pm ET, seven days a week excluding New Year's Day, Independence Day, Thanksgiving, and Christmas.</p>
+          </p>
+          <h5>Please use the below fields to provide the requested information so that we may best assist you. Do not include any additional personal information in the below text box.
+          </h5>
+          </p>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+
+
+
+
+
+
+  
+nav {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Distribute items horizontally */
+    background-color: #6d1ed4; /* Background color for the navbar */
+ 
+}
+
+/* .logo{
+    padding-left: 20vw ;
+} */
+.logo img {
+
+    height: 40px; /* Adjust height as needed */
+}
+
+.links ul {
+    list-style-type: none; /* Remove bullets from the list */
+    padding: 10px;
+    margin: 10px;
+}
+
+.links ul li {
+    display: inline-block; /* Display list items horizontally */
+    margin-left: 20px; /* Adjust spacing between list items */
+    color: white; /* Text color for the links */
+}
+
+#mobile-menu {
+    display :flex;
+    flex-direction: column;
+    align-items: center; /* Center the items vertically */
+    justify-content: center; /* Center the items horizontally */
+    height: 100vh; /* Set the height to fill the entire viewport */
+  }
+
+#mobile-menu li {
+    padding: 15px 0;
+    margin: 0;
+    color: white;
+    list-style-type: none;
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        display: none; /* Hide the logo on mobile */
+    }
+    .links ul{
+        display: none;
+    }
+#mobile-menu li{
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+   
+
+
+   /* 
+nav {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Distribute items horizontally */
+    background-color: #6d1ed4; /* Background color for the navbar */
+}
+
+.logo img {
+    height: 40px; /* Adjust height as needed */
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+.links ul {
+    list-style-type: none; /* Remove bullets from the list */
+    margin: 10px;
+}
+
+.links ul li {
+    display: inline-block; /* Display list items horizontally */
+    margin-left: 20px; /* Adjust spacing between list items */
+    color: white; /* Text color for the links */
+}
+
+#mobile-menu {
+    list-style-type: none; /* Remove bullets from the list */
+    padding: 0;
+    margin: 0;
+}
+
+#mobile-menu li {
+    padding: 15px 0;
+    margin: 0;
+    color: white;
+    list-style-type: none;
+    display: none;
+    text-align: center; /* Center the text */
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        display: none; /* Hide the logo on mobile */
+    }
+    .links ul {
+        display: none; /* Hide the desktop menu */
+    }
+    #mobile-menu li {
+        display: block; /* Show the mobile menu */
+        margin-left: 0; /* Reset the left margin */
+        margin-right: 0; /* Reset the right margin */
+    }
+} */
+

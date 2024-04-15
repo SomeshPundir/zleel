@@ -1,0 +1,365 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: 'ZelleSans-Regular', sans-serif; /* Use ZelleSans-Regular font for body text */
+
+}
+
+.container {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+
+nav {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Distribute items horizontally */
+    background-color: #6d1ed4; /* Background color for the navbar */
+}
+
+
+.logo img {
+    height: 40px; /* Adjust height as needed */
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+.links ul {
+    list-style-type: none; /* Remove bullets from the list */
+    margin: 10px;
+}
+
+.links ul li {
+    text-decoration: none;
+    display: inline-block; /* Display list items horizontally */
+    margin-left: 20px; /* Adjust spacing between list items */
+    color: white; /* Text color for the links */
+}
+
+#mobile-menu {
+    list-style-type: none; /* Remove bullets from the list */
+    padding: 0;
+    margin: 0;
+}
+
+.links ul li:hover {
+    text-decoration: none;
+    background-color:#815dff;
+}
+
+.mobilemenuMid ul li:hover {
+    text-decoration: none;
+
+    background-color:#815dff; 
+}
+
+#mobile-menu li {
+    padding: 15px 0;
+    margin: 0;
+    color: white;
+    list-style-type: none;
+    display: none;
+    text-align: center; /* Center the text */
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        display: none; /* Hide the logo on mobile */
+    }
+    .links ul {
+        display: none; /* Hide the desktop menu */
+    }
+    #mobile-menu li {
+        text-decoration: none !important;
+        display: block; /* Show the mobile menu */
+        margin-left: 0; /* Reset the left margin */
+        margin-right: 0; /* Reset the right margin */
+    }
+    .mobilemenuMid{
+        position: relative;
+        left: -30%;
+    }
+    .mobilemenuMid ul li {
+        text-decoration: none !important;
+    }
+} 
+
+
+
+header h1 {
+    margin-top: 1px;
+    font-size: 4.5em;
+    color: white;
+    background-color: #6d1ed4;
+    /* padding: 10vw; */
+    padding-top:3vh ;
+    padding-bottom: 3vh;
+    margin-bottom: 3rem;
+}
+.thebtn{
+    font-size: 20px;
+    color: #5b18b2;
+    border-radius: 5px;
+    background-color: #fcfcfc;   
+     padding: 10px;
+    margin:10px;
+    border: solid 1px #ddddde
+}
+.thebtn:hover{
+    background-color: #4CAF50;
+}
+
+
+.Content h2{
+    font-size: 2em;
+    color: #6c757d;;
+    font-weight: 100;
+}
+.Content p{
+    font-size: 20px;
+    color: rgb(51, 51, 51);
+}
+#specialBold{
+    color: #343a40;
+    font-weight: 900;
+    font-family: 'ZelleSans-Bold', sans-serif;
+}
+#specialP{
+    font: 1.5em;
+    color:#343a40 ;
+}
+.ContentPhase2{
+    margin-top: 10vh;
+    position: static;
+}
+
+.ContentPhase2 p{
+    font-size: 20px;
+margin-bottom: 1.5em;
+color: #6c757d;
+}
+span{
+    color: #343a40;
+    font-weight: bold;
+}
+a{
+    color: #6d1ed4;
+}
+.ContentPhase2 h5{
+    font-style: italic;
+    color: #6c757d;
+}
+
+.descriptionclass{
+    display: block;
+}
+.descriptionclass label{
+    display: block;
+}
+.descriptionclass input{
+    display: block;
+}
+
+.descriptionclass textarea{
+    height: 10vw;
+    width: 100%;
+}
+
+
+.ContentForm{
+    display: block;
+    width: 100%;
+
+}
+.ContentForm span{
+    font-weight: 700;
+}
+
+#formSubmitbtn{
+    margin-top:10px;
+    display: block;
+    color: #343a40;
+    padding:10px;
+    background-color: white;
+    border: solid 1px #5bddb4;
+    font-size: 1rem;
+    font-weight: 900;
+    border-radius: 5px; 
+
+}
+
+.button-container ul {
+    cursor: pointer;
+    padding: 10px;
+    list-style-type: none; /* Remove bullet points */
+    display: inline-block; /* Display ul elements inline */
+    margin-right: 10px; /* Add spacing between ul elements */
+}
+
+.button-container ul.active {
+    border-top: solid 5px #6f1fd4; /* Adjust color as needed */
+}
+
+.button-container ul li {
+    display: none; /* Initially hide all list items */
+    padding: 5px 0; /* Add padding to list items */
+}
+
+.button-container ul.active li {
+    display: block; /* Show list items when the corresponding ul is active */
+}
+
+.buttonspecial button {
+    font-weight: 500;
+    color: #2a105f;
+    background-color: #5bddb4;
+    border: solid 1px #5bddb4;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px; /* Add spacing between buttons */
+}
+
+
+footer{
+    background-color: #5b18b2;
+    /* height: 500px; */
+    width: 100%;
+    margin-top: 10px;
+    
+}
+footer p{
+    margin: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    /* padding: 2rem; */
+    color: #c2a9e3
+}
+.fa-brands{
+    font-size: 30px;
+}
+.socialmedia a{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.footerMain{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom:1px solid #c2a9e3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footerMain .anchorstag a:hover {
+    color: #815dff; /* Change color on hover */
+  }
+  
+  /* Apply hover effect to social media icons */
+  .footerMain .socialmedia a:hover {
+    color: #815dff; /* Change color on hover */
+  }
+
+
+
+  .socialmedia {
+    display: flex;
+    justify-content: center; /* Align items horizontally in the center */
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+  }
+  
+  .socialmedia a {
+    padding: 10px; /* Add padding to the links */
+  }
+  
+  .socialmedia a i {
+    font-size: 30px;
+  }
+  .anchorstag {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    justify-content: center; /* Align items horizontally in the center */
+  }
+  
+  .anchorstag a {
+    padding: 0 10px; /* Add padding to the links */
+  }
+  
+  
+  /* Adjustments for smaller viewports */
+  @media only screen and (max-width: 600px) {
+    .anchorstag a {
+        margin-top: 10px; /* Add margin to separate from the social media links */
+      }
+    .footerMain {
+      flex-direction: column; /* Align items vertically on smaller viewports */
+    }
+  
+    .socialmedia {
+      margin-top: 10px; /* Add margin to separate from the anchor tags */
+    }
+  }
+.anchorstag a{
+    padding: 10px;
+    margin: 10px;
+    color:white;
+    text-decoration: none; /* Remove underline from all anchor tags */
+
+
+
+}
+.anchorstag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+    font-family: 'ZelleSans-UltLt';
+    font-weight: normal;
+    line-height: 1.2em;
+}
+
+
+
+.horizontal-list {
+    list-style-type: none; /* Remove default list style */
+    padding: 10px;
+    margin: 0;
+
+  }
+  
+  .horizontal-list li {
+    display: inline-block; /* Display list items horizontally */
+    margin-right: 10px; /* Adjust spacing between list items */
+  }
+
+.mainContainerLists{
+    border-bottom: 1px solid #6c757d;
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+  .mainList{
+    font-size: 1.5em;
+    color: #6d1ed4;
+  }
+
+
+  .mainList.active {
+    border-top:5px solid #6d1ed4; 
+    border-radius: 10px 10px 0 0; /* Set border radius for top left and right corners */
+
+    border-radius: 5px;
+
+  }
+
+
+  
+
